@@ -1,3 +1,5 @@
+// import Genji from '../../dist/index.min.js';
+// import Genji from '../../lib/index.js';
 import Genji from '../../src/index';
 import * as user from '../user';
 

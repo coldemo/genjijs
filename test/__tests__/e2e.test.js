@@ -1,6 +1,8 @@
 import { render, fireEvent, cleanup } from '@testing-library/react';
 import { connect, Provider } from 'react-redux';
-import Genji from '../../src';
+// import Genji from '../../dist/index.min.js';
+// import Genji from '../../lib/index.js';
+// import Genji from '../../src';
 import React from 'react';
 
 afterEach(cleanup);
