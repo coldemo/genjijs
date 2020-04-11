@@ -1,5 +1,5 @@
 {
-  "name": "genjijs",
+  "name": "genjijs-umd",
   "npmName": "genjijs",
   "tnpmName": "@tencent/genji",
   "scripts": {
